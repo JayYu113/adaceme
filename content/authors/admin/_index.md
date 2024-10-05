@@ -143,8 +143,8 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese-Mandrian
+    percent: 90
+  - name: Chinese-Mandarin
     percent: 98
   - name: Chinese-Wu
     percent: 95
