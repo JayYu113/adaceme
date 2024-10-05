@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physical Science
+  - Gardening
+  - Baking
 
 education:
   - area: PhD Artificial Intelligence
