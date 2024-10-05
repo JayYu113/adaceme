@@ -2,6 +2,7 @@
 	% 在codespace左边的目录栏找到 `“content/authors/admin/_index.md”`这个文件
 	% 它就是你最终要展示在网站上的文本内容，根据自己的需要替换相应板块的个人简介，教育经历等信息。
 	% 然后，在同样的主目录下修改 `avatar.jpg` 文件，这个文件将是你网站上展示的头像。
+			% 一个生成头像的网站: [https://getavataaars.com/](https://getavataaars.com/).
 
 
 ### 发布
