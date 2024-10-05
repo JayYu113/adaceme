@@ -83,7 +83,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+work: #Experience
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -144,10 +144,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese-Mandrian
+    percent: 98
+  - name: Chinese-Wu
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
