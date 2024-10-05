@@ -6,3 +6,9 @@
 
 ### 发布
     % 回到你的github repo页面，点击setting->page，将deployment方式改成“GitHub Actions”，这是GitHub page最新的自动化deploer，可以避免手动git push。接下来就可以愉快地找到最上方一行Actions 菜单，选择“run workflow”来更新/发布你的网站。这个过程可能需要等待半分钟，如果出现小绿标，说明网站已经被成功更新/发布啦，可以点击网址链接查看！
+    
+    
+### 修改细节：
+	% header: `config/_default` --> `params.yaml` --> `Site header`
+	% 导航界面工具栏：`config/_default` --> `menus.yaml` --> `Main`
+	%

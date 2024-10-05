@@ -1,7 +1,11 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
   #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+  #   The weight parameter defines the order that the links will appear in. 
+      # weight 参数用于定义导航链接在页面上的显示顺序。权重值越小，链接就会越靠前显示。
+        #例如，在目前的配置中：
+          # “Bio”的 weight 是 10, 所以它会首先显示。
+          # “Papers” 的 weight 是 11, 所以它会排在第二，依此类推。
 
 main:
   - name: Bio
