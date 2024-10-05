@@ -83,7 +83,6 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -184,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sun Wukong, also known as the Monkey King, is a powerful and rebellious figure from the Chinese classic *Journey to the West* (*Xiyouji*). He is born from a stone and possesses incredible strength, agility, and magical abilities, including the power to shapeshift and summon mystical forces. Despite his mischievous nature and defiance of heavenly authority, he ultimately embarks on a journey of redemption, aiding the monk Tang Sanzang in retrieving sacred Buddhist scriptures.
