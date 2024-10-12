@@ -25,7 +25,8 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           # filename: stacked-peaks.svg
-          filename: 72832542_kurp2.jpg
+          # filename: 72832542_kurp2.jpg
+         filename: WechatIMG6.jpeg
           filters:
             brightness: 1.0
           size: cover
