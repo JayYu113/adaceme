@@ -34,12 +34,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Research Focus'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a Ph.D. student in condensed matter physics, with a particular focus on studying the electronic properties of transition metal dichalcogenides (TMDs). My research primarily involves using advanced techniques such as scanning probe microscopy to investigate these materials at the nanoscale. By exploring the electronic behavior of TMDs, I aim to contribute to a deeper understanding of their potential applications in next-generation electronic devices and materials science.
         
         Please reach out to collaborate 😃
     design:
